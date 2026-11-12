@@ -1,0 +1,18 @@
+{
+  "name": "ONE MORE TRY! - Viral Reflex Game",
+  "short_name": "OneMoreTry",
+  "description": "Think you're fast? Prove it! The ultimate hyper-casual visual reflex game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080a10",
+  "theme_color": "#00F0FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
